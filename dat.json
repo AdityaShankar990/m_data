@@ -1,4 +1,28 @@
 {
-  "name": "AdityaShankar",
-  "rank": 23414312
+  "branches": [
+    {
+      "college": "NIT Patna",
+      "branch": "CSE",
+      "category": "UR",
+      "closing_rank": 1200
+    },
+    {
+      "college": "NIT Patna",
+      "branch": "ECE",
+      "category": "UR",
+      "closing_rank": 3000
+    },
+    {
+      "college": "MIT Muzaffarpur",
+      "branch": "CSE",
+      "category": "UR",
+      "closing_rank": 8000
+    },
+    {
+      "college": "BCE Bhagalpur",
+      "branch": "Mechanical",
+      "category": "UR",
+      "closing_rank": 15000
+    }
+  ]
 }
