@@ -40,6 +40,12 @@
       "name": "NIT, Patna",
       "url": "nit-patna.html",
       "image": ""
+    },
+    {
+      "id": "gec-dholakpur",
+      "name": "GEC, Dholakpur",
+      "url": "gec-dholakpur.html",
+      "image": ""
     }
   ]
 }
