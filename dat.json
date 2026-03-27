@@ -35,17 +35,56 @@
       "url": "iit-patna.html",
       "image": ""
     },
+{
+  "meta": {
+    "version": "v1.0",
+    "tagline": "Connecting college communities and creating meaningful educational experiences that empower students to achieve their goals",
+    "changelogs": [
+      "v1.0 — Initial release of College Saathi Hub",
+      "Added: GEC Lakhisarai, GEC Jamui, GEC Baxur",
+      "Added: IIT Patna, NIT Patna",
+      "Feature: Changelogs typewriter, circular progress fetch",
+      "Feature: LocalStorage cache (1 hr TTL) for fast reloads"
+    ]
+  },
+  "colleges": [
+    {
+      "id": "gec-lakhisarai",
+      "name": "GEC, Lakhisarai",
+      "url": "gec-lakhisarai.html",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Engineering_college_building_india.jpg"
+    },
+    {
+      "id": "gec-jamui",
+      "name": "GEC, Jamui",
+      "url": "gec-jamui.html",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/College_building_India.jpg"
+    },
+    {
+      "id": "gec-baxur",
+      "name": "GEC, Baxur",
+      "url": "gec-baxur.html",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Indian_college_campus.jpg"
+    },
+    {
+      "id": "iit-patna",
+      "name": "IIT, Patna",
+      "url": "iit-patna.html",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/IIT_Patna_Main_Building.jpg"
+    },
     {
       "id": "nit-patna",
       "name": "NIT, Patna",
       "url": "nit-patna.html",
-      "image": ""
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/NIT_Patna_campus.jpg"
     },
     {
       "id": "gec-dholakpur",
       "name": "GEC, Dholakpur",
       "url": "gec-dholakpur.html",
-      "image": ""
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/College_building_generic.jpg"
     }
+  ]
+}
   ]
 }
