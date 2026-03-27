@@ -1,31 +1,13 @@
 {
   "branches": [
     {
-      "college": "NIT Patna",
+      "college": "AdityaShankar",
       "branch": "CSE",
       "category": "UR",
       "closing_rank": 1200
     },
     {
-      "college": "NIT Patna",
-      "branch": "ECE",
-      "category": "UR",
-      "closing_rank": 3000
-    },
-    {
-      "college": "NIT Patna",
-      "branch": "ECE",
-      "category": "UR",
-      "closing_rank": 3000
-    },
-    {
-      "college": "NIT Patna",
-      "branch": "ECE",
-      "category": "UR",
-      "closing_rank": 3000
-    },
-    {
-      "college": "NIT Patna",
+      "college": "NaveenVErma",
       "branch": "ECE",
       "category": "UR",
       "closing_rank": 3000
