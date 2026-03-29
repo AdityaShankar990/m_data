@@ -1,3 +1,49 @@
 {
-  "notices": []
+"notices": [
+          {
+            "title": "Time Table Batch 2024-2028 Second Semester 23/05/2025",
+            "date": "7/4/2025",
+            "detail": "All students are informed that the Time Table has been released. Please check the schedule carefully and attend all classes accordingly.",
+            "ref_name": "gecl-official-site",
+            "ref_link": "https://www.geclakhisarai.ac.in",
+            "pdf_name": "time-table.pdf",
+            "pdf_link": "https://www.geclakhisarai.ac.in/NoticeBantuLL9094/Time%20Table%202025.pdf"
+          },
+          {
+            "title": "Examination Form Submission Deadline - Last Date 30/04/2025",
+            "date": "15/3/2025",
+            "detail": "Students of all batches are hereby informed to submit their examination forms before the deadline. Late submission will not be accepted under any circumstances.",
+            "ref_name": "gecl-official-site",
+            "ref_link": "https://www.geclakhisarai.ac.in",
+            "pdf_name": "",
+            "pdf_link": ""
+          },
+          {
+            "title": "Holiday Notice — Holi Vacation 2025",
+            "date": "10/3/2025",
+            "detail": "The college will remain closed from 13th March to 16th March 2025 on account of Holi. Regular classes will resume from 17th March 2025.",
+            "ref_name": "",
+            "ref_link": "",
+            "pdf_name": "",
+            "pdf_link": ""
+          },
+          {
+            "title": "New Batch Orientation Programme — 2024-2028 Batch",
+            "date": "20/1/2025",
+            "detail": "All newly admitted students of the 2024-2028 batch are requested to attend the Orientation Programme scheduled on 25th January 2025 in the college auditorium at 10:00 AM.",
+            "ref_name": "",
+            "ref_link": "",
+            "pdf_name": "",
+            "pdf_link": ""
+          },
+          {
+            "title": "Scholarship Application Portal Open — SC/ST/OBC Students",
+            "date": "8/1/2025",
+            "detail": "The scholarship application portal for SC/ST/OBC students is now open. Eligible students must apply before the due date. Documents required: caste certificate, income certificate, mark sheet.",
+            "ref_name": "Bihar Scholarship Portal",
+            "ref_link": "https://pmsonline.bih.nic.in/",
+            "pdf_name": "",
+            "pdf_link": ""
+          }
+        ]
 }
