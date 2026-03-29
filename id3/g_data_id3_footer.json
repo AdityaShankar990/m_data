@@ -1,13 +1,22 @@
 {
-  "tagline": null,
-  "address": null,
-  "mapQuery": null,
-  "socials": {
-    "facebook": null,
-    "twitter": null,
-    "instagram": null,
-    "linkedin": null,
-    "youtube": null
-  },
-  "links": []
+          "tagline": "Connecting college communities and creating meaningful educational experiences that empower students to achieve their goals",
+          "address": "Shivsona Road, Kharsari, Chandwara, Lakhisarai,\nBihar – 811311",
+          "mapQuery": "Government+Engineering+College+Lakhisarai,+Shivsona+Road,+Kharsari,+Chandwara,+Bihar+811311",
+          "socials": {
+            "facebook": "https://www.facebook.com/geclakhisaraiofficial",
+            "twitter": "https://twitter.com/geclakhisarai",
+            "instagram": "https://www.instagram.com/gec.lakhisarai.official",
+            "linkedin": "https://www.linkedin.com/in/startupcellgeclakhisarai/",
+            "youtube": "https://www.youtube.com/@geclakhisarai"
+          },
+          "links": [
+            { "name": "Bihar Skill Development Mission", "url": "https://skillmissionbihar.org/" },
+            { "name": "Social Welfare Dept. Bihar", "url": "http://socialwelfare.bih.nic.in/" },
+            { "name": "Education Dept. Bihar", "url": "https://state.bihar.gov.in/educationbihar/CitizenHome.html" },
+            { "name": "DSTTE, Bihar", "url": "https://state.bihar.gov.in/dst/CitizenHome.html" },
+            { "name": "Bihar Government", "url": "http://gov.bih.nic.in/" },
+            { "name": "BCECEB", "url": "http://bceceboard.bihar.gov.in/" },
+            { "name": "Aryabhatta Knowledge University", "url": "https://akubihar.ac.in/EN/Default.aspx" },
+            { "name": "All India Council for Technical Education (AICTE)", "url": "https://www.aicte-india.org/" }
+          ]
 }
