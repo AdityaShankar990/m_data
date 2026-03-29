@@ -4,7 +4,8 @@
     "changelogs": [
       "[+] IIT PATNA registered on 29 Mar 2026",
       "[+] IIT DELHI registered on 29 Mar 2026",
-      "[+] IIT BOMBAY registered on 29 Mar 2026"
+      "[+] IIT BOMBAY registered on 29 Mar 2026",
+      "[+] IIT GUWAHATI (id4) registered on 30 Mar 2026"
     ]
   },
   "colleges": [
@@ -28,6 +29,24 @@
       "adminId": "admin_iitb",
       "adminPwd": "123456789",
       "addedAt": "2026-03-29T18:12:48.907Z"
+    },
+    {
+      "id": "id4",
+      "index": 4,
+      "name": "IIT GUWAHATI",
+      "adminId": "admin_iitg",
+      "registeredAt": "2026-03-29T18:46:59.840Z",
+      "files": {
+        "profile": "g_data_id4_profile.json",
+        "title": "g_data_id4_title.json",
+        "qualities": "g_data_id4_qualities.json",
+        "members": "g_data_id4_members.json",
+        "notices": "g_data_id4_notices.json",
+        "achievements": "g_data_id4_achievements.json",
+        "faqs": "g_data_id4_faqs.json",
+        "footer": "g_data_id4_footer.json",
+        "user": "g_data_id4_user.json"
+      }
     }
   ]
 }
