@@ -5,7 +5,8 @@
       "[+] IIT PATNA registered on 29 Mar 2026",
       "[+] IIT DELHI registered on 29 Mar 2026",
       "[+] IIT BOMBAY registered on 29 Mar 2026",
-      "[+] IIT GUWAHATI (id4) registered on 30 Mar 2026"
+      "[+] IIT GUWAHATI (id4) registered on 30 Mar 2026",
+      "[+] dgdfsgdfsg registered on 30 Mar 2026"
     ]
   },
   "colleges": [
@@ -46,6 +47,24 @@
         "faqs": "g_data_id4_faqs.json",
         "footer": "g_data_id4_footer.json",
         "user": "g_data_id4_user.json"
+      }
+    },
+    {
+      "id": "id5",
+      "index": 5,
+      "name": "dgdfsgdfsg",
+      "adminId": "sdgdfg",
+      "registeredAt": "2026-03-29T19:08:53.133Z",
+      "files": {
+        "profile": "id5/profile.json",
+        "title": "id5/title.json",
+        "qualities": "id5/qualities.json",
+        "members": "id5/members.json",
+        "notices": "id5/notices.json",
+        "achievements": "id5/achievements.json",
+        "faqs": "id5/faqs.json",
+        "footer": "id5/footer.json",
+        "user": "id5/user.json"
       }
     }
   ]
