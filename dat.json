@@ -1,13 +1,9 @@
 {
   "meta": {
-    "version": "v1.5",
+    "version": "v1.0",
     "tagline": "Connecting college communities and creating meaningful educational experiences that empower students to achieve their goals",
     "changelogs": [
-      "v1.0 â Initial release of College Saathi Hub",
-      "Added: GEC Lakhisarai, GEC Jamui, GEC Baxur",
-      "Added: IIT Patna, NIT Patna",
-      "Feature: Changelogs typewriter, circular progress fetch",
-      "Feature: LocalStorage cache (1 hr TTL) for fast reloads"
+      "v1.0 â Initial release of College Saathi Hub"
     ]
   },
   "colleges": [
