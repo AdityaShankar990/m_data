@@ -1,3 +1,32 @@
 {
-  "faqs": []
+        "faqs": [
+          {
+            "q": "Where is GEC Lakhisarai?",
+            "a": "Government Engineering College, Lakhisarai is located at Shivsona Road, Kharsari, Chandwara, Bihar - 811107."
+          },
+          {
+            "q": "Can I get into it through JEE?",
+            "a": "Admission to GEC Lakhisarai is done through BCECE (Bihar Combined Entrance Competitive Examination), not JEE. Students must qualify BCECE to secure admission."
+          },
+          {
+            "q": "Is 75% attendance compulsory here?",
+            "a": "Yes. As per SBTE Bihar norms, 75% attendance is mandatory for all students. Students falling below this threshold may not be allowed to appear in semester examinations."
+          },
+          {
+            "q": "What courses are offered at GEC Lakhisarai?",
+            "a": "The institute offers Diploma programmes in Civil Engineering (CE) with 120 seats, Mechanical Engineering (ME), Electrical Engineering (EE), Computer Science Engineering (Data Science), and Computer Science Engineering (AI/ML) with 60 seats each."
+          },
+          {
+            "q": "Is hostel facility available?",
+            "a": "Yes, hostel and mess facilities are available for both students and teaching/non-teaching staff on campus."
+          },
+          {
+            "q": "When was GEC Lakhisarai established?",
+            "a": "GEC Lakhisarai was established on 25th September 2019, when the foundation stone was laid and the institution was inaugurated by the Hon. Chief Minister of Bihar, Shri Nitish Kumar."
+          },
+          {
+            "q": "Which board is GEC Lakhisarai affiliated to?",
+            "a": "The institute is affiliated to the State Board of Technical Education (SBTE), Patna, Bihar."
+          }
+        ]
 }
